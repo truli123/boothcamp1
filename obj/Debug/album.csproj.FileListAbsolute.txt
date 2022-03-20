@@ -1,0 +1,8 @@
+C:\Users\Kreso\source\repos\album\album\obj\Debug\album.csproj.AssemblyReference.cache
+C:\Users\Kreso\source\repos\album\album\obj\Debug\album.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kreso\source\repos\album\album\obj\Debug\album.csproj.CoreCompileInputs.cache
+C:\Users\Kreso\source\repos\album\album\bin\Debug\album.exe.config
+C:\Users\Kreso\source\repos\album\album\bin\Debug\album.exe
+C:\Users\Kreso\source\repos\album\album\bin\Debug\album.pdb
+C:\Users\Kreso\source\repos\album\album\obj\Debug\album.exe
+C:\Users\Kreso\source\repos\album\album\obj\Debug\album.pdb
