@@ -1,3 +1,0 @@
-C:\Users\Kreso\source\repos\album\album\obj\Release\album.csproj.AssemblyReference.cache
-C:\Users\Kreso\source\repos\album\album\obj\Release\album.csproj.SuggestedBindingRedirects.cache
-C:\Users\Kreso\source\repos\album\album\obj\Release\album.csproj.CoreCompileInputs.cache
